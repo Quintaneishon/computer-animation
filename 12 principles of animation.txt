@@ -1,0 +1,12 @@
+1.- Squash and Stretch (que los objetos se estiren y reduscan para dar mas fisica).
+2.- Anticipation (preparar al objeto antes de la accion)
+3.- Staging (transmitir a la audiencia lo que queremos mostrar, dependiendo el angulo de la camara)
+4.- Pose to pose (mover el objeto dibujando pose a pose)
+5.- follow throught and overlaping actions (si se mueve el objeto principal, lo que tenga arriba tambien)
+6.- Slow in and slow out (un movimiento emipeza lento y termina lento)
+7.- Arcs (Curvas que hacen algunas acciones para dar la impresion de alejarse o acercarse)
+8.- Secondary action (podemos a;adir acciones en algunas partes que no son principales para darle mas expresion)
+9.- Timing (para acciones letas podemos bajar los fps o vicerversa)
+10.- Exaggeration (dar mas exageracion a algunas escenas para que se vean mejor)
+11.- Solid Drawing (Darle mas detalles o curvas para que no se vea plano)
+12.- Appeal (Exagerar y cambiar forma de los personajes para hacerlos mas interesantes)
